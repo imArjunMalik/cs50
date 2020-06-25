@@ -1,0 +1,8 @@
+
+
+ 1. Get the crad number 
+ 2. American Express - 15 digits starting with 34 or 37
+ 3. Mastercrad - 16 digits starting with 51, 52, 53, 54, or 55
+ 4. Visa - 13 or 16 digits starting with 4
+ 5. Then use Luhn's Algorithm 
+ 6. Last digit mustt be 0 otherwise invalid
