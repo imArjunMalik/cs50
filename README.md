@@ -6,4 +6,8 @@ You can find more details for the course on https://cs50.harvard.edu/x/2020/
 
 # Final certificate!
 
-![TESTIMAGE](CS50x%20Certificate.pdf)
+![](pset4/filter/images/CS50%20certificate.png)
+
+# Disclaimer
+
+Please do not copy the code mindlessly without trying to solve the problems yourself. CS50 academic honesty policy - https://docs.cs50.net/2016/fall/syllabus/cs50.html#academic-honesty
